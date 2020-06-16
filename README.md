@@ -27,3 +27,5 @@ https://openweathermap.org/api
 
 - Alpha Vantage, stock and tracking information resource 
 https://www.alphavantage.co/documentation/
+
+- Alpaca - used for aglo stock trading, has an api for paper money accounts
