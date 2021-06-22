@@ -32,3 +32,4 @@ https://openweathermap.org/api
 https://www.alphavantage.co/documentation/
 
 - Alpaca - used for aglo stock trading, has an api for paper money accounts
+ https://alpaca.markets/docs/api-documentation/
