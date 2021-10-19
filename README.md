@@ -1,6 +1,12 @@
 ## API-Library
 # List of interesting web APIs for devs.
 
+* Soccer/Football API
+https://www.api-football.com/
+
+* Sports radar:
+https://sportradar.us/
+
 * Map box, street and terrain informaiton 
 https://www.mapbox.com/
 
