@@ -1,6 +1,9 @@
 ## API-Library
 # List of interesting web APIs for devs.
 
+* Geospatial Map API
+https://turfjs.org/
+
 * Soccer/Football API
 https://www.api-football.com/
 
