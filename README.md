@@ -1,5 +1,16 @@
-## API-Library
-# List of interesting web APIs for devs.
+## Useful Web API's, frameworks, other tools for developers.
+
+1. frameworks/libs
+2. Web Data API's
+
+
+
+## Frameworks/Libs
+
+* Typer CLI (Python CLI interface tool, assists in creating command line interfaces)
+https://typer.tiangolo.com/tutorial/terminating/
+
+## Web API's
 
 * Geospatial Map API
 https://turfjs.org/
