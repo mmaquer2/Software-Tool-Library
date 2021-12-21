@@ -10,6 +10,9 @@
 * Typer CLI (Python CLI interface tool, assists in creating command line interfaces)
 https://typer.tiangolo.com/tutorial/terminating/
 
+- Framework to do basic networking with packets, and sockets in javascript and node.js
+- https://socket.io/docs/v4/how-it-works/
+
 ## Web API's
 
 * Geospatial Map API
