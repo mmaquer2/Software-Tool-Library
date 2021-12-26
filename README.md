@@ -13,6 +13,15 @@ https://typer.tiangolo.com/tutorial/terminating/
 - Framework to do basic networking with packets, and sockets in javascript and node.js
 - https://socket.io/docs/v4/how-it-works/
 
+- SFML, simple fast media library for c/c++
+- https://www.sfml-dev.org/
+
+- open frameworks, creative coding library in c/c++, includes openGL
+- https://openframeworks.cc/about/
+
+- open cv, computer vision API
+- https://opencv.org/
+
 ## Web API's
 
 * Geospatial Map API
