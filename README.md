@@ -1,5 +1,7 @@
 ## Useful Web API's, frameworks, other tools for developers.
 
+- This document contains a list of useful software frameworks, libraries, API's I've come across in my work and studies.
+
 1. frameworks/libs
 2. Web Data API's
 
@@ -22,19 +24,36 @@ https://typer.tiangolo.com/tutorial/terminating/
 - open cv, computer vision API
 - https://opencv.org/
 
-## Web API's
 
-* Geospatial Map API
+## Visual and Creative
+
+Paper.js, edit vector animations with the HTML canvas API
+- http://paperjs.org/examples/
+
+Three.js, graphics library made with opengl/webgl in the background
+- https://threejs.org/
+
+
+## Maps
+
+- Geospatial Map API
 https://turfjs.org/
-
-* Soccer/Football API
-https://www.api-football.com/
-
-* Sports radar:
-https://sportradar.us/
 
 * Map box, street and terrain informaiton 
 https://www.mapbox.com/
+
+## Sports Data API
+
+- Soccer/Football API
+https://www.api-football.com/
+
+- Sports radar:
+https://sportradar.us/
+
+- Strava, social network for endurance athletes and activity tracking 
+https://developers.strava.com/
+
+## Finance and Math
 
 - stock twits is a social network for investors, can pull stock info, graphs etc
 https://api.stocktwits.com/developers
@@ -44,9 +63,7 @@ http://products.wolframalpha.com/api/
 
 - Twilio, used for various types of communications on websites 
 https://www.twilio.com/docs/usage/api
- 
-- Strava, social network for endurance athletes and activity tracking 
-https://developers.strava.com/
+
 
 - News API, pulls news headlines in JSON format 
 https://newsapi.org/
