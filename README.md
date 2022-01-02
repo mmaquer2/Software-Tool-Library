@@ -61,10 +61,6 @@ https://api.stocktwits.com/developers
 - wolfram alpha , giant super calculator
 http://products.wolframalpha.com/api/
 
-- Twilio, used for various types of communications on websites 
-https://www.twilio.com/docs/usage/api
-
-
 - News API, pulls news headlines in JSON format 
 https://newsapi.org/
 
@@ -82,3 +78,12 @@ https://www.alphavantage.co/documentation/
 
 - Alpaca - used for aglo stock trading, has an api for paper money accounts
  https://alpaca.markets/docs/api-documentation/
+ 
+ ## Communication
+ 
+ - Twilio, used for various types of communications on websites 
+https://www.twilio.com/docs/usage/api
+
+- API/framework for websockets, easier to use than vanilla websocket API, can be used to create chat applications
+-https://socket.io/
+ 
