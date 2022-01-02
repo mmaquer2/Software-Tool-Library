@@ -1,10 +1,9 @@
 ## Useful Web API's, frameworks, other tools for developers.
 
-- This document contains a list of useful software frameworks, libraries, API's I've come across in my work and studies.
+- This document contains a list of useful software frameworks, libraries, and API's I've come across in my work, studies, and free time tinkering. 
 
-1. frameworks/libs
+1. frameworks/libraries
 2. Web Data API's
-
 
 
 ## Frameworks/Libs
