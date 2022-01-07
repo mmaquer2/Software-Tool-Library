@@ -4,6 +4,8 @@
 
 1. frameworks/libraries
 2. Web Data API's
+3. Software Tools
+
 
 
 ## Frameworks/Libs
@@ -86,3 +88,11 @@ https://www.twilio.com/docs/usage/api
 - API/framework for websockets, easier to use than vanilla websocket API, can be used to create chat applications
 -https://socket.io/
  
+ 
+ ## Software Tools
+ 
+ Cmder, Console Emulator for windows
+ - https://cmder.net/
+
+Blender 3D, free open source 3d modeling software
+- https://www.blender.org/
