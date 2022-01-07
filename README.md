@@ -1,11 +1,12 @@
 ## Useful Web API's, frameworks, other tools for developers.
 
-- This document contains a list of useful software frameworks, libraries, and API's I've come across in my work, studies, and free time tinkering. 
+- This document contains a list of useful software frameworks, libraries, API's, and other tools I've come across in my work, studies, and free time tinkering. 
 
 1. frameworks/libraries
 2. Web Data API's
 3. Software Tools
-
+4. Game Engines
+5. Creative Coding 
 
 
 ## Frameworks/Libs
@@ -77,15 +78,15 @@ https://openweathermap.org/api
 - Alpha Vantage, stock and tracking information resource 
 https://www.alphavantage.co/documentation/
 
-- Alpaca - used for aglo stock trading, has an api for paper money accounts
+- Alpaca - used for aglo stock trading, has an API for paper money accounts and trading
  https://alpaca.markets/docs/api-documentation/
  
- ## Communication
+ ## Web Communication Platforms
  
  - Twilio, used for various types of communications on websites 
 https://www.twilio.com/docs/usage/api
 
-- API/framework for websockets, easier to use than vanilla websocket API, can be used to create chat applications
+- Socket.io, API/framework for websockets, easier to use than vanilla websocket API, can be used to create chat applications
 -https://socket.io/
  
  
@@ -96,3 +97,16 @@ https://www.twilio.com/docs/usage/api
 
 Blender 3D, free open source 3d modeling software
 - https://www.blender.org/
+
+
+## Game Engines
+Godot, open source, free game engine, can use C++ or a python like language for event scripts
+https://godotengine.org/
+- Unity
+- Game Maker
+SuperPowers, JavaScript and HTML canvas based game engine, https://superpowers-html5.com/index.en.html
+
+## Creative Coding
+Browser Web Audio API, https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+
+
