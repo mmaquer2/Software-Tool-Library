@@ -35,6 +35,8 @@ Paper.js, edit vector animations with the HTML canvas API
 Three.js, graphics library made with opengl/webgl in the background
 - https://threejs.org/
 
+Game Library for python
+- https://www.pygame.org/news
 
 ## Maps
 
