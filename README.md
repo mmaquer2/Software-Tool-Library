@@ -9,7 +9,7 @@
 5. Creative Coding 
 
 
-## Frameworks/Libs
+## misc frameworks and tools
 
 * Typer CLI (Python CLI interface tool, assists in creating command line interfaces)
 https://typer.tiangolo.com/tutorial/terminating/
@@ -17,8 +17,6 @@ https://typer.tiangolo.com/tutorial/terminating/
 - Framework to do basic networking with packets, and sockets in javascript and node.js
 - https://socket.io/docs/v4/how-it-works/
 
-- SFML, simple fast media library for c/c++
-- https://www.sfml-dev.org/
 
 - open frameworks, creative coding library in c/c++, includes openGL
 - https://openframeworks.cc/about/
@@ -27,7 +25,7 @@ https://typer.tiangolo.com/tutorial/terminating/
 - https://opencv.org/
 
 
-## Visual and Creative
+## Visual, Creative, and Graphics
 
 Paper.js, edit vector animations with the HTML canvas API
 - http://paperjs.org/examples/
@@ -35,8 +33,9 @@ Paper.js, edit vector animations with the HTML canvas API
 Three.js, graphics library made with opengl/webgl in the background
 - https://threejs.org/
 
-Game Library for python
-- https://www.pygame.org/news
+Open GL based cpp frameworks:
+- SFML, simple fast media library for c/c++ (https://www.sfml-dev.org/)
+- SDL, https://www.libsdl.org/
 
 ## Maps
 
@@ -102,11 +101,13 @@ Blender 3D, free open source 3d modeling software
 
 
 ## Game Engines
-Godot, open source, free game engine, can use C++ or a python like language for event scripts
+- Godot, open source, free game engine, can use C++ or a python like language for event scripts
 https://godotengine.org/
+ - pygame, python based game and animation framework based on SDL (https://www.pygame.org/news) 
 - Unity
 - Game Maker
-SuperPowers, JavaScript and HTML canvas based game engine, https://superpowers-html5.com/index.en.html
+- SuperPowers, JavaScript and HTML canvas based game engine, https://superpowers-html5.com/index.en.html
+
 
 ## Creative Coding
 Browser Web Audio API, https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
