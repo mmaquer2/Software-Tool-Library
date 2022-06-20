@@ -9,6 +9,8 @@
 5. Creative Coding 
 
 
+https://github.com/public-apis/public-apis
+
 ## misc frameworks and tools
 
 * Typer CLI (Python CLI interface tool, assists in creating command line interfaces)
